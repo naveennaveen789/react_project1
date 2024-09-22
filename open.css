@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(50deg,orange,tomato);
+    height: 71vh;
+
+}
+.open{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+    
+}
+.open a img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+     
+}
